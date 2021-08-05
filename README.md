@@ -7,4 +7,3 @@
 # High-level Integration Design explanation.
 # Restful service "flights" has been implemented as a mvc based web application and bundled as a .war file. 
 # can be deployed into a web or application server. 
-
